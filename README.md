@@ -1,6 +1,6 @@
 # Restaurant-Billing-System
 Overview
-This is a **Restaurant Billing System** built with **Python (Tkinter GUI)**.  
+--> This is a **Restaurant Billing System** built with **Python (Tkinter GUI)**.  
 It allows restaurant staff to:  
 - Take customer orders  
 - Calculate total cost with tax & service charges  
